@@ -8,10 +8,10 @@
 [![Dependencies](https://tinyverse.netlify.com/badge/IDSL.ICA)](https://cran.r-project.org/package=IDSL.ICA)
 <!-- badges: end -->
 
-**Integrated Compound Annotation (ICA)** by the [**Integrated Data Science Laboratory for Metabolomics and Exposomics (IDSL.ME)**](https://www.idsl.me/) is a computational workflow to facilitate integration of the annotated metabolomics data for multi-omics analyses. The **IDSL.ICA** workflow integrates outputs of several existing tools including [IDSL.IPA](https://github.com/idslme/IDSL.IPA), [IDSL.UFA](https://github.com/idslme/IDSL.UFA) and [IDSL.CSA](https://github.com/idslme/IDSL.CSA) to enable comprehensive annotation of metabolites detected in a given batch of samples.
+**Integrated Compound Annotation (ICA)** by the [**Integrated Data Science Laboratory for Metabolomics and Exposomics (IDSL.ME)**](https://www.idsl.me/) is a computational workflow to facilitate integration of the annotated metabolomics data for multi-omics analyses. The **IDSL.ICA** workflow integrates outputs of several existing tools including [**IDSL.IPA**](https://github.com/idslme/IDSL.IPA), [**IDSL.UFA**](https://github.com/idslme/IDSL.UFA) and [**IDSL.CSA**](https://github.com/idslme/IDSL.CSA) to enable comprehensive annotation of metabolites detected in a given batch of samples.
 
-## Installation
+## Installation (pending release ...)
 
-	 pending install.packages("IDSL.CSA") pending
+	 install.packages("IDSL.CSA")
 	 
 ## [vignettes](https://github.com/idslme/IDSL.ICA/blob/main/ICA_educational_files/vignettes/Integrated_Compound_Annotation.pdf)
