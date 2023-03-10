@@ -1,4 +1,4 @@
-# IDSL.ICA <img src='/ICA_educational_files/Figures/IDSL.ICA-logo1.png' width="250px" align="right" />
+# IDSL.ICA <img src='https://github.com/idslme/IDSL.ICA/blob/main/ICA_educational_files/Figures/IDSL.CSA-logo1.png?raw=true' width="250px" align="right" />
 
 <!-- badges: start -->
 [![Maintainer](https://img.shields.io/badge/maintainer-Sadjad_Fakouri_Baygi-blue)](https://github.com/sajfb)
